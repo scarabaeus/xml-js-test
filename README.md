@@ -16,6 +16,7 @@ Output:
 
 ```json
 {
+  // Compact Output
   "compact": {
     "SOAP-ENV:Body": {
       "_attributes": {
@@ -28,6 +29,8 @@ Output:
       }
     }
   },
+
+  // Non-compact output
   "nonCompact": {
     "elements": [
       {
