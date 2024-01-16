@@ -67,3 +67,8 @@ Related:
 
 - https://github.com/scarabaeus/xml2js-test
 - https://github.com/scarabaeus/xml-js-test
+- https://github.com/scarabaeus/fast-xml-parser-test
+
+Download Stats:
+
+- https://npmtrends.com/fast-xml-parser-vs-xml-js-vs-xml2js
